@@ -1,4 +1,2 @@
-# DigitalTwinPlatform
-
-## 1. AirSimMixed
+# 1. AirSimMixed
 
